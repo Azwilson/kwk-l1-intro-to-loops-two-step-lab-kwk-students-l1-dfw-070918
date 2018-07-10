@@ -50,5 +50,9 @@ def break_dance
     puts 'hello'
 break
     puts 'goodbye'
+    if steps == 6
+     break
+ end
+ end
 end
 end
