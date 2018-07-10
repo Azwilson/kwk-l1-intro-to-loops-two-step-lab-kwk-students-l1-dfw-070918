@@ -43,6 +43,7 @@ def how_many_steps?
     puts "right"
   sleep(0.5)
 end
+sleep
 end
 
 def break_dance
