@@ -45,6 +45,7 @@ def how_many_steps?
 end
 sleep(0.5)
 end
+end
 
 def break_dance
   loop do
